@@ -1,0 +1,1870 @@
+array (
+  51 => 1,
+)
+array (
+  51 => 1,
+  43 => 1,
+)
+array (
+  51 => 1,
+  43 => 2,
+)
+array (
+  51 => 1,
+  43 => 2,
+  42 => 1,
+)
+array (
+  35 => 1,
+)
+array (
+  50 => 1,
+)
+array (
+  35 => 1,
+)
+array (
+)
+array (
+  51 => 1,
+)
+array (
+  51 => 2,
+)
+array (
+  51 => 1,
+)
+array (
+  51 => 1,
+)
+array (
+  35 => 1,
+)
+array (
+  35 => 2,
+)
+array (
+  35 => 3,
+)
+array (
+  51 => 1,
+)
+array (
+  50 => 1,
+)
+array (
+)
+array (
+  50 => 1,
+)
+array (
+  50 => 2,
+)
+array (
+  50 => 3,
+)
+array (
+  50 => 4,
+)
+array (
+  50 => 1,
+)
+array (
+  51 => 1,
+)
+array (
+  51 => 1,
+)
+array (
+  51 => 1,
+)
+array (
+  51 => 1,
+  50 => 1,
+)
+array (
+  51 => 1,
+  50 => 2,
+)
+array (
+  51 => 1,
+  50 => 2,
+  49 => 1,
+)
+array (
+  50 => 1,
+)
+array (
+  51 => 1,
+)
+array (
+  51 => 2,
+)
+array (
+)
+array (
+  51 => 1,
+)
+array (
+  51 => 2,
+)
+array (
+  51 => 3,
+)
+array (
+  51 => 4,
+)
+array (
+  51 => 5,
+)
+array (
+  51 => 6,
+)
+array (
+  51 => 7,
+)
+array (
+  51 => 8,
+)
+array (
+  51 => 9,
+)
+array (
+  51 => 10,
+)
+array (
+  52 => 1,
+)
+array (
+)
+array (
+  51 => 1,
+)
+array (
+  51 => 2,
+)
+array (
+  51 => 3,
+)
+array (
+  52 => 1,
+)
+array (
+  52 => 1,
+  53 => 1,
+)
+array (
+  52 => 1,
+  53 => 2,
+)
+array (
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 2,
+)
+array (
+  53 => 3,
+)
+array (
+  53 => 4,
+)
+array (
+  53 => 4,
+)
+array (
+  53 => 4,
+)
+array (
+  53 => 5,
+)
+array (
+  53 => 6,
+)
+array (
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 2,
+)
+array (
+  53 => 3,
+)
+array (
+  53 => 4,
+)
+array (
+  53 => 5,
+)
+array (
+  53 => 5,
+)
+array (
+)
+array (
+  52 => 1,
+)
+array (
+  52 => 1,
+)
+array (
+)
+array (
+  50 => 1,
+)
+array (
+  50 => 2,
+)
+array (
+  50 => 3,
+)
+array (
+  50 => 4,
+)
+array (
+  50 => 5,
+)
+array (
+  50 => 6,
+)
+array (
+  50 => 7,
+)
+array (
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 2,
+)
+array (
+  53 => 3,
+)
+array (
+  53 => 4,
+)
+array (
+  53 => 5,
+)
+array (
+  53 => 5,
+)
+array (
+  53 => 5,
+)
+array (
+  53 => 5,
+)
+array (
+  53 => 5,
+)
+array (
+  48 => 1,
+)
+array (
+  48 => 1,
+  52 => 1,
+)
+array (
+  48 => 1,
+  52 => 1,
+  51 => 1,
+)
+array (
+  48 => 1,
+  52 => 1,
+  51 => 2,
+)
+array (
+  48 => 1,
+  52 => 1,
+  51 => 3,
+)
+array (
+  48 => 1,
+  52 => 1,
+  51 => 3,
+  50 => 1,
+)
+array (
+  48 => 1,
+  52 => 1,
+  51 => 3,
+  50 => 2,
+)
+array (
+  48 => 1,
+  52 => 1,
+  51 => 3,
+  50 => 3,
+)
+array (
+  48 => 1,
+  52 => 1,
+  51 => 3,
+  50 => 4,
+)
+array (
+  48 => 1,
+  52 => 1,
+  51 => 3,
+  50 => 5,
+)
+array (
+  48 => 1,
+  52 => 1,
+  51 => 3,
+  50 => 6,
+)
+array (
+  48 => 1,
+  52 => 1,
+  51 => 3,
+  50 => 7,
+)
+array (
+  50 => 1,
+)
+array (
+  50 => 2,
+)
+array (
+  50 => 3,
+)
+array (
+  50 => 4,
+)
+array (
+  50 => 5,
+)
+array (
+  50 => 6,
+)
+array (
+  50 => 7,
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 1,
+  52 => 1,
+)
+array (
+)
+array (
+  52 => 1,
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 2,
+)
+array (
+  53 => 3,
+)
+array (
+  53 => 3,
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 2,
+)
+array (
+  53 => 3,
+)
+array (
+  53 => 4,
+)
+array (
+  53 => 5,
+)
+array (
+  53 => 5,
+)
+array (
+  53 => 5,
+)
+array (
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 2,
+)
+array (
+  53 => 3,
+)
+array (
+  53 => 4,
+)
+array (
+  53 => 4,
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 2,
+)
+array (
+  53 => 3,
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 1,
+)
+array (
+  50 => 1,
+)
+array (
+  50 => 2,
+)
+array (
+  50 => 3,
+)
+array (
+  50 => 4,
+)
+array (
+  50 => 5,
+)
+array (
+  50 => 6,
+)
+array (
+  50 => 7,
+)
+array (
+)
+array (
+  50 => 1,
+)
+array (
+  50 => 2,
+)
+array (
+  50 => 3,
+)
+array (
+  50 => 4,
+)
+array (
+  50 => 5,
+)
+array (
+  50 => 6,
+)
+array (
+  50 => 7,
+)
+array (
+)
+array (
+  53 => 1,
+)
+array (
+  52 => 1,
+)
+array (
+  52 => 1,
+)
+array (
+  51 => 1,
+)
+array (
+  51 => 2,
+)
+array (
+  51 => 3,
+)
+array (
+  51 => 4,
+)
+array (
+  51 => 5,
+)
+array (
+  51 => 6,
+)
+array (
+  51 => 6,
+)
+array (
+  51 => 6,
+  52 => 1,
+)
+array (
+  51 => 1,
+)
+array (
+  49 => 1,
+)
+array (
+  49 => 2,
+)
+array (
+  49 => 3,
+)
+array (
+  49 => 4,
+)
+array (
+  49 => 5,
+)
+array (
+  49 => 6,
+)
+array (
+  49 => 7,
+)
+array (
+  49 => 8,
+)
+array (
+  49 => 8,
+)
+array (
+  49 => 8,
+)
+array (
+  49 => 8,
+)
+array (
+  49 => 8,
+  52 => 1,
+)
+array (
+  49 => 8,
+  52 => 1,
+)
+array (
+)
+array (
+  52 => 1,
+)
+array (
+  52 => 1,
+  51 => 1,
+)
+array (
+  52 => 1,
+  51 => 1,
+  50 => 1,
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 1,
+  52 => 1,
+)
+array (
+  53 => 1,
+  52 => 1,
+  50 => 1,
+)
+array (
+)
+array (
+  53 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  50 => 1,
+)
+array (
+  50 => 2,
+)
+array (
+  50 => 1,
+)
+array (
+  50 => 2,
+)
+array (
+  50 => 3,
+)
+array (
+)
+array (
+  50 => 1,
+)
+array (
+  50 => 2,
+)
+array (
+  50 => 2,
+)
+array (
+  50 => 2,
+  48 => 1,
+)
+array (
+  50 => 2,
+  48 => 1,
+)
+array (
+  50 => 2,
+  48 => 2,
+)
+array (
+  50 => 3,
+  48 => 2,
+)
+array (
+  50 => 3,
+  48 => 2,
+)
+array (
+  50 => 3,
+  48 => 2,
+)
+array (
+  50 => 3,
+  48 => 2,
+)
+array (
+  50 => 3,
+  48 => 2,
+)
+array (
+  50 => 3,
+  48 => 2,
+)
+array (
+  50 => 3,
+  48 => 2,
+)
+array (
+  50 => 3,
+  48 => 2,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  53 => 1,
+)
+array (
+  53 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  66 => 1,
+)
+array (
+  66 => 2,
+)
+array (
+  66 => 3,
+)
+array (
+  66 => 3,
+  1 => 1,
+)
+array (
+  67 => 1,
+)
+array (
+  67 => 1,
+)
+array (
+  67 => 1,
+)
+array (
+  67 => 1,
+  65 => 1,
+)
+array (
+  67 => 1,
+  65 => 2,
+)
+array (
+  67 => 1,
+)
+array (
+  67 => 1,
+)
+array (
+  67 => 1,
+)
+array (
+  67 => 1,
+  2 => 1,
+)
+array (
+  67 => 1,
+  2 => 1,
+  3 => 1,
+)
+array (
+  67 => 1,
+  2 => 1,
+  3 => 1,
+  4 => 1,
+)
+array (
+  67 => 1,
+  2 => 1,
+  3 => 1,
+  4 => 1,
+  51 => 1,
+)
+array (
+  67 => 1,
+  2 => 1,
+  3 => 1,
+  4 => 1,
+  51 => 2,
+)
+array (
+  67 => 1,
+  2 => 1,
+  3 => 1,
+  4 => 1,
+  51 => 2,
+  52 => 1,
+)
+array (
+  67 => 1,
+  2 => 1,
+  3 => 1,
+  4 => 1,
+  51 => 2,
+  52 => 2,
+)
+array (
+  67 => 1,
+  2 => 1,
+  3 => 1,
+  4 => 1,
+  51 => 2,
+  52 => 2,
+  53 => 1,
+)
+array (
+  67 => 1,
+  2 => 1,
+  3 => 1,
+  4 => 1,
+  51 => 2,
+  52 => 2,
+  53 => 2,
+)
+array (
+  58 => 1,
+)
+array (
+  58 => 1,
+  57 => 1,
+)
+array (
+  57 => 2,
+)
+array (
+  3 => 1,
+)
+array (
+  3 => 1,
+  4 => 1,
+)
+array (
+  3 => 1,
+  4 => 2,
+)
+array (
+  3 => 1,
+  4 => 2,
+  5 => 1,
+)
+array (
+  3 => 1,
+  4 => 2,
+  5 => 2,
+)
+array (
+  3 => 1,
+  4 => 2,
+  5 => 3,
+)
+array (
+)
+array (
+)
+array (
+  63 => 1,
+)
+array (
+  63 => 2,
+)
+array (
+  51 => 1,
+)
+array (
+  51 => 2,
+)
+array (
+  51 => 2,
+  52 => 1,
+)
+array (
+  51 => 2,
+  52 => 2,
+)
+array (
+)
+array (
+  63 => 1,
+)
+array (
+  63 => 1,
+)
+array (
+  63 => 1,
+  3 => 1,
+)
+array (
+  63 => 1,
+  3 => 2,
+)
+array (
+  5 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  63 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  63 => 1,
+)
+array (
+)
+array (
+  1 => 1,
+)
+array (
+  59 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  61 => 1,
+)
+array (
+  61 => 1,
+)
+array (
+)
+array (
+  65 => 1,
+)
+array (
+  65 => 2,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  64 => 1,
+)
+array (
+  59 => 1,
+)
+array (
+  59 => 1,
+  61 => 1,
+)
+array (
+)
+array (
+  57 => 1,
+)
+array (
+  57 => 1,
+  58 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  51 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  61 => 1,
+)
+array (
+  61 => 2,
+)
+array (
+  61 => 3,
+)
+array (
+)
+array (
+)
+array (
+  62 => 1,
+)
+array (
+  62 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  1 => 1,
+)
+array (
+  1 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  62 => 1,
+)
+array (
+  62 => 1,
+)
+array (
+  62 => 1,
+  59 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  62 => 1,
+)
+array (
+  62 => 2,
+)
+array (
+  62 => 3,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  62 => 1,
+)
+array (
+  62 => 2,
+)
+array (
+  62 => 2,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  34 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  1 => 1,
+)
+array (
+  1 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  1 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  3 => 1,
+)
+array (
+  3 => 1,
+)
+array (
+)
+array (
+  31 => 1,
+)
+array (
+  31 => 1,
+)
+array (
+  31 => 1,
+)
+array (
+  31 => 1,
+)
+array (
+  31 => 1,
+  56 => 1,
+)
+array (
+)
+array (
+)
+array (
+  56 => 1,
+)
+array (
+  56 => 1,
+)
+array (
+  56 => 1,
+  54 => 1,
+)
+array (
+  56 => 1,
+  54 => 2,
+)
+array (
+  56 => 1,
+  54 => 3,
+)
+array (
+  56 => 1,
+  54 => 3,
+  55 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  31 => 1,
+)
+array (
+  31 => 2,
+)
+array (
+  31 => 3,
+)
+array (
+  31 => 3,
+)
+array (
+  31 => 3,
+)
+array (
+  31 => 3,
+)
+array (
+  31 => 3,
+)
+array (
+)
+array (
+  31 => 1,
+)
+array (
+  31 => 2,
+)
+array (
+  31 => 3,
+)
+array (
+)
+array (
+  31 => 1,
+)
+array (
+  31 => 2,
+)
+array (
+  31 => 3,
+)
+array (
+  2 => 1,
+)
+array (
+  2 => 2,
+)
+array (
+  2 => 3,
+)
+array (
+  2 => 4,
+)
+array (
+  2 => 5,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  35 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  58 => 1,
+)
+array (
+  58 => 1,
+)
+array (
+)
+array (
+  43 => 1,
+)
+array (
+  43 => 1,
+)
+array (
+  43 => 1,
+)
+array (
+)
+array (
+  57 => 1,
+)
+array (
+  57 => 1,
+)
+array (
+  57 => 1,
+)
+array (
+  57 => 1,
+  60 => 1,
+)
+array (
+  5 => 1,
+)
+array (
+  32 => 1,
+)
+array (
+  32 => 1,
+)
+array (
+  32 => 1,
+  62 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  67 => 1,
+)
+array (
+  67 => 1,
+)
+array (
+  67 => 1,
+)
+array (
+  67 => 1,
+)
+array (
+  67 => 1,
+)
+array (
+  67 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  1 => 1,
+)
+array (
+  1 => 1,
+)
+array (
+  1 => 1,
+)
+array (
+  1 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  1 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  1 => 1,
+)
+array (
+  1 => 1,
+)
+array (
+  1 => 1,
+)
+array (
+  8 => 1,
+)
+array (
+  8 => 1,
+  7 => 1,
+)
+array (
+  1 => 1,
+)
+array (
+  1 => 1,
+  2 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  57 => 1,
+)
+array (
+  57 => 1,
+)
+array (
+  57 => 1,
+)
+array (
+  57 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  145 => 1,
+)
+array (
+  145 => 1,
+)
+array (
+  145 => 1,
+)
+array (
+  145 => 1,
+)
+array (
+  145 => 1,
+)
+array (
+  145 => 1,
+)
+array (
+  145 => 1,
+)
+array (
+  145 => 1,
+  139 => 1,
+)
+array (
+  145 => 1,
+  139 => 1,
+  138 => 1,
+)
+array (
+)
+array (
+  101 => 1,
+)
+array (
+)
+array (
+  101 => 1,
+)
+array (
+  101 => 1,
+  102 => 1,
+)
+array (
+)
+array (
+  101 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  104 => 1,
+)
+array (
+)
+array (
+)
+array (
+  104 => 1,
+)
+array (
+  104 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  104 => 1,
+)
+array (
+)
+array (
+)
+array (
+  101 => 1,
+)
+array (
+  101 => 2,
+)
+array (
+)
+array (
+  104 => 1,
+)
+array (
+)
+array (
+)
+array (
+  133 => 1,
+)
+array (
+  133 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  101 => 1,
+  102 => 1,
+)
+array (
+)
+array (
+)
+array (
+  159 => 1,
+)
+array (
+  159 => 1,
+)
+array (
+  159 => 1,
+)
+array (
+  159 => 1,
+)
+array (
+)
+array (
+  160 => 1,
+)
+array (
+)
+array (
+)
+array (
+  106 => 1,
+)
+array (
+  161 => 1,
+)
+array (
+  113 => 1,
+)
+array (
+  119 => 1,
+)
+array (
+)
+array (
+  125 => 1,
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+)
+array (
+  134 => 1,
+)
+array (
+  165 => 1,
+)
+array (
+)
+array (
+  166 => 1,
+)
+array (
+)
+array (
+)
